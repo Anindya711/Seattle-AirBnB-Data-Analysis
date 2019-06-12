@@ -1,7 +1,7 @@
 # Seattle-AirBnB-Data-Analysis
 This repository consists of analysis of Seattle AirBnB data using python.
 
-**About the Project** \
+**Motivation** \
 Airbnb offers air beds and shared spaces to a variety of properties including entire homes and apartments, private rooms, castles, boats, manors for people to lease or rent for short-term lodging. The company does not own any of the real estate listings, nor does it host events; it acts as a broker, receiving commissions from each booking. So, if you want to go somewhere unplanned, not able to afford luxurious hotels, knock Airbnb's door.
 In this post, we are going to analyze the Seattle Airbnb data, provided to us publicly for data mining works.
 
@@ -47,5 +47,13 @@ In this analysis, we are going answer questions related to 3 areas, those are
     1.How much do people charge to rent their homes (on average, minimum, maximum)? 
     
     2.How the price changes in those busy schedules?
+  
+**Files**
+  This repository contains 2 files apart from this readme file. The Seattle Data Analysis.ipynb contains the all the code and analysis
+  and the Seattle Data Analysis.html is the html export of the same file.
+    
+**Summary**
+  The final analysis results has been published via a medium post. Please find the link to the post below,
+  https://medium.com/@anindya.prince/airbnb-deep-analysis-of-seattle-homes-4e0cbd655cc7?postPublishedType=initial
 
 Inspired by : http://insideairbnb.com/behind.html
