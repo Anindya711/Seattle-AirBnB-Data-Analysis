@@ -1,5 +1,6 @@
 # Seattle-AirBnB-Data-Analysis
 This repository consists of analysis of Seattle AirBnB data using python.
+
 **About the Project** \
 Airbnb offers air beds and shared spaces to a variety of properties including entire homes and apartments, private rooms, castles, boats, manors for people to lease or rent for short-term lodging. The company does not own any of the real estate listings, nor does it host events; it acts as a broker, receiving commissions from each booking. So, if you want to go somewhere unplanned, not able to afford luxurious hotels, knock Airbnb's door.
 In this post, we are going to analyze the Seattle Airbnb data, provided to us publicly for data mining works.
@@ -21,6 +22,7 @@ The CRISP-DM Process (Cross Industry Process for Data Mining) is a standard proc
   
 **Goal**
 In this analysis, we are going answer questions related to 3 areas, those are
+
   **Availability Analysis**
     An Airbnb host can set up a calendar for their listing so that it is only available for a few days or weeks a year.
     listings are available all year round (except for when it is already booked).
@@ -29,10 +31,12 @@ In this analysis, we are going answer questions related to 3 areas, those are
     a availability.
   2.How the listings are distributed across a number of days? Are there a huge number of available listings? What could be the
     the reason behind that?
+    
   **Time Series and Engagement Analysis**
     1.What are the busiest times of the year to visit Seattle? 
     2.Which day is the busiest of all the days?
     3.Which months show most visitors in the area?
+    
   **Pricing Analysis**
     1.How much do people charge to rent their homes (on average, minimum, maximum)? 
     2.How the price changes in those busy schedules?
