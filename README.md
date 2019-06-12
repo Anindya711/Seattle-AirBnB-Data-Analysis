@@ -27,18 +27,25 @@ In this analysis, we are going answer questions related to 3 areas, those are
     An Airbnb host can set up a calendar for their listing so that it is only available for a few days or weeks a year.
     listings are available all year round (except for when it is already booked).
     We will try to analyze below points here in regards to Availability.
+    
   1.What percent of listings are highly available throughout the year? We will consider a metric of 60% as the measure of high
     a availability.
+    
   2.How the listings are distributed across a number of days? Are there a huge number of available listings? What could be the
     the reason behind that?
     
   **Time Series and Engagement Analysis**
+  
     1.What are the busiest times of the year to visit Seattle? 
+    
     2.Which day is the busiest of all the days?
+    
     3.Which months show most visitors in the area?
     
   **Pricing Analysis**
+  
     1.How much do people charge to rent their homes (on average, minimum, maximum)? 
+    
     2.How the price changes in those busy schedules?
 
 Inspired by : http://insideairbnb.com/behind.html
