@@ -20,7 +20,7 @@ The CRISP-DM Process (Cross Industry Process for Data Mining) is a standard proc
   5.Evaluate the Results
   6.Deploy
   
-**Goal**
+**Goal**\
 In this analysis, we are going answer questions related to 3 areas, those are
 
   **Availability Analysis**
@@ -48,11 +48,11 @@ In this analysis, we are going answer questions related to 3 areas, those are
     
     2.How the price changes in those busy schedules?
   
-**Files**
+**Files**\
   This repository contains 2 files apart from this readme file. The Seattle Data Analysis.ipynb contains the all the code and analysis
   and the Seattle Data Analysis.html is the html export of the same file.
     
-**Summary**
+**Summary**\
   The final analysis results has been published via a medium post. Please find the link to the post below,
   https://medium.com/@anindya.prince/airbnb-deep-analysis-of-seattle-homes-4e0cbd655cc7?postPublishedType=initial
 
